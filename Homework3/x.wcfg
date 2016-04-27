@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Chris/Documents/CompE470/Homework3_2/Homework3/tb_nbit_shift_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_nbit_shift" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/tb_nbit_shift/soutR" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">soutR</obj_property>
+      <obj_property name="ObjectShortName">soutR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/soutL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">soutL</obj_property>
+      <obj_property name="ObjectShortName">soutL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/value" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">value[7:0]</obj_property>
+      <obj_property name="ObjectShortName">value[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/sinR" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sinR</obj_property>
+      <obj_property name="ObjectShortName">sinR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/sinL" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sinL</obj_property>
+      <obj_property name="ObjectShortName">sinL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/din" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">din[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/opCode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">opCode[3:0]</obj_property>
+      <obj_property name="ObjectShortName">opCode[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_nbit_shift/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+</wave_config>
